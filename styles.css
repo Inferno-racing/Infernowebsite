@@ -1,0 +1,42 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #dd3d3d; /* Inferno color (replace with your desired color code) */
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #aa0000; /* Bold red color (replace with your desired color code) */
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+section {
+    padding: 50px 20px;
+}
+
+h1, h2 {
+    color: #aa0000; /* Bold red color (replace with your desired color code) */
+}
+
+p {
+    line-height: 1.6;
+}
